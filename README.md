@@ -88,17 +88,6 @@ finance-dashboard/
 
 ---
 
-## 📸 Screenshots
-<img width="666" height="824" alt="Screenshot 2026-04-05 235054" src="https://github.com/user-attachments/assets/280f2e76-0972-425d-86cf-1acf5007f9b3" />
-<img width="340" height="876" alt="Screenshot 2026-04-05 235301" src="https://github.com/user-attachments/assets/7f8c63bb-2ef6-4bed-9966-8791f4b93e69" />
-<img width="598" height="872" alt="Screenshot 2026-04-05 235418" src="https://github.com/user-attachments/assets/c94bb897-76ec-47fe-8cae-b74bd53c458c" />
-<img width="592" height="878" alt="Screenshot 2026-04-05 235455" src="https://github.com/user-attachments/assets/a8643295-cb07-40da-9579-e49f4a8ad6f5" />
-
-
-
-
-
-
 
 ## 🙌 Acknowledgements
 
