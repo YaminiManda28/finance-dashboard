@@ -8,7 +8,7 @@ This project focuses on intuitive UI design, structured components, and smooth u
 
 ## 🚀 Live Demo
 
-👉 https://yourusername.github.io/finance-dashboard/
+https://yaminimanda28.github.io/finance-dashboard/
 
 ---
 
