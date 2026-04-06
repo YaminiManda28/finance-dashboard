@@ -100,5 +100,3 @@ This project was built as part of a frontend development assignment to demonstra
 ---
 
 
-
-⭐ If you like this project, feel free to star the repo!
